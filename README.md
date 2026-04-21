@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### `> ./connect.sh`
+#### `> ./connect.sh`
 
 [![Email](https://img.shields.io/badge/-amandabenitezhidalgo@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amandabenitezhidalgo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-amandabenhid-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amandabenhid)
