@@ -4,9 +4,10 @@
 
 </div>
 
-- 👋 Hi there! My name is **Amanda**, and I work as a cybersecurity analyst at **Capgemini** in Spain.
-- 🛠️ I'm currently enhancing my skills in **DevOps**, focusing on automation, continuous integration, and deployment.
-- ✨ My future goal is to keep learning and combining **Cybersecurity with DevOps** to build secure and efficient solutions.
+- 👋 Hi there! I'm Amanda, a DevOps Engineer at Capgemini based in Spain.
+- 🚀 I specialize in automation, CI/CD pipelines, cloud infrastructure, and deployment strategies, with a strong focus on building scalable and reliable systems.
+- 🛠️ I’m continuously improving my skills in DevOps practices, cloud technologies, and infrastructure as code (IaC).
+- 🎯 I’m passionate about delivering efficient, high-quality solutions and collaborating in agile, high-performing teams.
 
 <div align="center">
 
